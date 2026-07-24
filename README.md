@@ -1,6 +1,4 @@
-# My-Background
-My currently held certifications and what I am planning on pursuing in the future.
-Hi, I'm Gabe 👋
+# Gabriel Alonso
 
 IT Service Desk Technician working toward Cloud Identity & Security Engineering — Microsoft Entra ID, Intune, hybrid AD, Conditional Access, Zero Trust, and PowerShell automation.
 
